@@ -1,0 +1,20 @@
+.env
+*.env
+
+# Ignore configuration files
+config.js
+*.config.js
+
+# Ignore dependency folders
+node_modules/
+vendor/
+
+# Ignore build and compiled files
+dist/
+build/
+out/
+target/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
